@@ -1,5 +1,6 @@
-package extension;
+package algorithm;
 
+import extension.Controller;
 import helpers.Constant;
 
 import javax.swing.*;

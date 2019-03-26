@@ -1,5 +1,6 @@
-package extension;
+package algorithm;
 
+import extension.Controller;
 import helpers.Constant;
 
 import javax.swing.*;
@@ -8,12 +9,15 @@ import java.awt.*;
 import static helpers.Helper.isSorted;
 
 public class MergeSortSimulation {
+    private int SIZE;
+    private int SEPARATION;
+
     private Controller controller;
     private JLabel[] lbArrays;
     private int num;
     private int[] arrays;
 
-    private int[] oriLocation = new int[15]; // origin x location of label
+    private int[] oriLocation; // origin x location of label
     private boolean isIncrease = true;
 
     public MergeSortSimulation(Controller controller) {
@@ -28,7 +32,10 @@ public class MergeSortSimulation {
 
         num = arrays.length;
         lbArrays = new JLabel[num];
+        oriLocation = new int[num];
+        responsiveScreen();
 
+        int wPerfect = controller.getPnImitiate().getWidth();
         for (int i = 0; i < num; i++) {
             //create label, set text "0"
             lbArrays[i] = new JLabel();
@@ -36,19 +43,18 @@ public class MergeSortSimulation {
             controller.getPnImitiate().add(lbArrays[i]);
 
             //set size label
-            lbArrays[i].setSize(50, 50);
+            lbArrays[i].setSize(SIZE, SIZE);
             lbArrays[i].setOpaque(true);
-            lbArrays[i].setForeground(Color.blue);
+            lbArrays[i].setForeground(Constant.SELECTED_BLUE);
+            lbArrays[i].setBackground(Constant.HIDDEN_COLOR_BACKGROUND);
 
             //set location label
-            if (i == 0) lbArrays[i].setLocation(((int) ((18 - num) * 0.5) * 70) + 100, 150);
-            else lbArrays[i].setLocation(lbArrays[i - 1].getX() + 70, 150);
+            if (i == 0) lbArrays[i].setLocation((wPerfect - num * (SIZE + SEPARATION)) / 2, 150);
+            else lbArrays[i].setLocation(lbArrays[i - 1].getX() + (SIZE + SEPARATION), 150);
 
             //set fonts
-            lbArrays[i].setFont(new Font("Tahoma", Font.PLAIN, 30));
+            lbArrays[i].setFont(new Font("Tahoma", Font.PLAIN, SIZE * 3 / 5));
 
-            //set background color
-            lbArrays[i].setBackground(SystemColor.inactiveCaption);
             //set text alignment center
             lbArrays[i].setHorizontalAlignment(SwingConstants.CENTER);
             lbArrays[i].setVerticalAlignment(SwingConstants.CENTER);
@@ -56,6 +62,18 @@ public class MergeSortSimulation {
         controller.getPnImitiate().setVisible(true);
         controller.getPnImitiate().validate();
         controller.getPnImitiate().repaint();
+    }
+
+    private void responsiveScreen() {
+        int wPerfect = controller.getPnImitiate().getWidth() - 40;
+        if (num * (Constant.DEFAULT_SIZE + Constant.DEFAULT_SEPARATION) > wPerfect) {
+            int wn = wPerfect / num;
+            SIZE = wn * 5 / 7;
+            SEPARATION = wn - SIZE;
+        } else {
+            SIZE = Constant.DEFAULT_SIZE;
+            SEPARATION = Constant.DEFAULT_SEPARATION;
+        }
     }
 
     public void setData(boolean increase, int[] arrays) {
@@ -228,7 +246,7 @@ public class MergeSortSimulation {
                             controller.SLEEP();
                         }
                     }
-                    lb1.setBackground(SystemColor.inactiveCaption);
+                    lb1.setBackground(Constant.HIDDEN_COLOR_BACKGROUND);
                 } catch (Exception e) {
                     System.out.println(e.getMessage());
                 }

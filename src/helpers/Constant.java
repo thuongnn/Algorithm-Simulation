@@ -11,6 +11,8 @@ public class Constant {
     public static final int RESUME = 5;
     public static final int FINISH = 6;
 
+    public static final int DEFAULT_SIZE = 50;
+    public static final int DEFAULT_SEPARATION = 20;
     public static final int MAX_VALUE_INPUT = 99;
     public static final int MIN_VALUE_INPUT = 0;
     public static final int STEP_SIZE = 1;

@@ -2,18 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dialog/FloatingPointNumber.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dialog/FloatingPointNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dialog/MergeSort.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dialog/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extension/AddSubtractSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extension/Controller.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extension/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extension/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extension/MergeSortSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extension/MultiplicationSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/AddSubtractSimulation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/AddSubtractSimulation$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/AddSubtractSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MultiplicationSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/helpers/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/helpers/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dialog/MergeSort.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/dialog/MergeSort.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dialog/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dialog/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extension/AddSubtractSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extension/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extension/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extension/MergeSortSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extension/MultiplicationSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/MultiplicationSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/Constant.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,11 +93,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/helpers/Constant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            <state relative-caret-position="210">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="248" column="70" selection-start-line="248" selection-start-column="70" selection-end-line="248" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dialog/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="163" column="29" lean-forward="true" selection-start-line="163" selection-start-column="29" selection-end-line="163" selection-end-column="29" />
+              <folding>
+                <element signature="e#1672#1673#0" expanded="true" />
+                <element signature="e#1721#1722#0" expanded="true" />
+                <element signature="e#1872#1873#0" expanded="true" />
+                <element signature="e#1922#1923#0" expanded="true" />
+                <element signature="e#2055#2056#0" expanded="true" />
+                <element signature="e#2100#2101#0" expanded="true" />
+                <element signature="e#2255#2256#0" expanded="true" />
+                <element signature="e#2301#2302#0" expanded="true" />
+                <element signature="e#2453#2454#0" expanded="true" />
+                <element signature="e#2495#2496#0" expanded="true" />
+                <element signature="e#2622#2623#0" expanded="true" />
+                <element signature="e#2660#2661#0" expanded="true" />
+                <element signature="e#2791#2792#0" expanded="true" />
+                <element signature="e#2833#2834#0" expanded="true" />
+                <element signature="e#3268#3269#0" expanded="true" />
+                <element signature="e#3310#3311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/extension/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="240" column="32" selection-start-line="240" selection-start-column="32" selection-end-line="240" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +161,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setBack</find>
+    </findStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -102,16 +181,19 @@
         <option value="$PROJECT_DIR$/src/extension/MultiplicationSimulation.java" />
         <option value="$PROJECT_DIR$/src/extension/Main.java" />
         <option value="$PROJECT_DIR$/src/extension/Controller.form" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java" />
         <option value="$PROJECT_DIR$/src/helpers/Constant.java" />
+        <option value="$PROJECT_DIR$/src/dialog/MergeSort.form" />
+        <option value="$PROJECT_DIR$/src/dialog/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1612" />
-    <option name="height" value="876" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -175,9 +257,11 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553532275450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553619834365" />
     <property name="dynamic.classpath" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -218,20 +302,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extension.Main" />
-      <module name="Algorithm-Simulation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="extension.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
       <module name="Algorithm-Simulation" />
@@ -244,6 +314,20 @@
       </extension>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extension.Main" />
+      <module name="Algorithm-Simulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -305,30 +389,30 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1553531475777" duration="582000" />
+      <workItem from="1553531475777" duration="1036000" />
+      <workItem from="1553599635753" duration="3000" />
+      <workItem from="1553613361926" duration="6195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1884000" />
+    <option name="totallyTimeSpent" value="8536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -340,10 +424,9 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Docker" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -351,6 +434,10 @@
       <window_info anchor="right" id="JetGradle" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,67 +452,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
     <entry file="file://$PROJECT_DIR$/Algorithm-Simulation.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/MyExtensionFrame.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/IExtensionFactory.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/IExtension.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dialog/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/extension/MyExtensionFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/extension/IExtensionFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/extension/IExtension.java" />
     <entry file="file://$PROJECT_DIR$/src/dialog/FloatingPointNumber.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/AddSubtractSimulation.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/MergeSortSimulation.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/helpers/Helper.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/MultiplicationSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-787">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/extension/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -434,20 +474,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/MultiplicationSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2499">
+          <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/MergeSort.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/extension/Controller.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="769" selection-start-line="769" selection-end-line="769" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/extension/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-919">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="237">
+          <caret line="240" column="32" selection-start-line="240" selection-start-column="32" selection-end-line="240" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/helpers/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        <state relative-caret-position="210">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="163" column="29" lean-forward="true" selection-start-line="163" selection-start-column="29" selection-end-line="163" selection-end-column="29" />
+          <folding>
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1721#1722#0" expanded="true" />
+            <element signature="e#1872#1873#0" expanded="true" />
+            <element signature="e#1922#1923#0" expanded="true" />
+            <element signature="e#2055#2056#0" expanded="true" />
+            <element signature="e#2100#2101#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="e#2301#2302#0" expanded="true" />
+            <element signature="e#2453#2454#0" expanded="true" />
+            <element signature="e#2495#2496#0" expanded="true" />
+            <element signature="e#2622#2623#0" expanded="true" />
+            <element signature="e#2660#2661#0" expanded="true" />
+            <element signature="e#2791#2792#0" expanded="true" />
+            <element signature="e#2833#2834#0" expanded="true" />
+            <element signature="e#3268#3269#0" expanded="true" />
+            <element signature="e#3310#3311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="248" column="70" selection-start-line="248" selection-start-column="70" selection-end-line="248" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

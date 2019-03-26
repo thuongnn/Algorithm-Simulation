@@ -4,8 +4,16 @@ import extension.Controller;
 import helpers.Constant;
 
 import javax.swing.*;
+import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.text.NumberFormatter;
+import java.awt.*;
 import java.awt.event.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 public class MergeSort extends JDialog {
@@ -18,6 +26,7 @@ public class MergeSort extends JDialog {
     private JPanel pnArrayValues;
     private JRadioButton rdIncrease;
     private JRadioButton rdDecrease;
+    private JButton btnOpenFile;
 
     private Controller controller;
     private JSpinner[] txtArrays;
@@ -60,6 +69,12 @@ public class MergeSort extends JDialog {
             @Override
             public void actionPerformed(ActionEvent e) {
                 createRandom();
+            }
+        });
+        btnOpenFile.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                openFile();
             }
         });
         buttonOK.addActionListener(new ActionListener() {
@@ -136,11 +151,49 @@ public class MergeSort extends JDialog {
      * Delete all arrays in dialog
      */
     private void deleteArrays() {
-        for (int i = 0; i < num; i++) {
-            lbArrays[i].setVisible(false);
-            txtArrays[i].setVisible(false);
-            pnArrayValues.remove(lbArrays[i]);
-            pnArrayValues.remove(txtArrays[i]);
+        if (lbArrays != null) {
+            for (int i = 0; i < lbArrays.length; i++) {
+                lbArrays[i].setVisible(false);
+                txtArrays[i].setVisible(false);
+                pnArrayValues.remove(lbArrays[i]);
+                pnArrayValues.remove(txtArrays[i]);
+            }
+        }
+    }
+
+    private void openFile() {
+        JFileChooser fileChooser = new JFileChooser();
+        FileNameExtensionFilter filter = new FileNameExtensionFilter("TEXT FILES", "txt", "text");
+        fileChooser.setFileFilter(filter);
+        int result = fileChooser.showOpenDialog(this);
+        if (result == JFileChooser.APPROVE_OPTION) {
+            List<Integer> list = new ArrayList<>();
+            File selectedFile = fileChooser.getSelectedFile();
+            BufferedReader reader = null;
+            try {
+                reader = new BufferedReader(new FileReader(selectedFile));
+                String text = null;
+                while ((text = reader.readLine()) != null) list.add(Integer.parseInt(text));
+
+                num = list.size();
+                arrays = new int[list.size()];
+
+                for (int i = 0; i < arrays.length; i++) arrays[i] = list.get(i);
+                if (num > 1) controller.setDataForMergeSortSimulation(isIncrease, arrays);
+                dispose();
+            } catch (IOException e) {
+                JOptionPane.showMessageDialog(new Frame(), e.getMessage());
+            } catch (NumberFormatException e1) {
+                JOptionPane.showMessageDialog(new Frame(), "File Error");
+            } finally {
+                try {
+                    if (reader != null) {
+                        reader.close();
+                    }
+                } catch (IOException ignored) {
+                    JOptionPane.showMessageDialog(new Frame(), "Error !");
+                }
+            }
         }
     }
 

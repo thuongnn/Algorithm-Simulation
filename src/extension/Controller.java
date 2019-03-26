@@ -1,5 +1,8 @@
 package extension;
 
+import algorithm.AddSubtractSimulation;
+import algorithm.MergeSortSimulation;
+import algorithm.MultiplicationSimulation;
 import dialog.FloatingPointNumber;
 import dialog.MergeSort;
 import helpers.Constant;
