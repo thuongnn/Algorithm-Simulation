@@ -15,6 +15,6 @@
 ![](https://firebasestorage.googleapis.com/v0/b/chat-application-8c618.appspot.com/o/mycv%2FPicture1.png?alt=media&token=159b55dd-febc-447d-a6d0-1d371c5092dd)
 *Following descriptions are the detail explanation of the cases on the diagram.*
 ### Analysis Diagram
-![](https://firebasestorage.googleapis.com/v0/b/chat-application-8c618.appspot.com/o/mycv%2FPicture1.png?alt=media&token=159b55dd-febc-447d-a6d0-1d371c5092dd)
+![](https://firebasestorage.googleapis.com/v0/b/chat-application-8c618.appspot.com/o/mycv%2FPicture2.png?alt=media&token=9038dcd2-f832-45be-8af0-0031da7245da)
 ### State Machine Diagram
 ![](https://firebasestorage.googleapis.com/v0/b/chat-application-8c618.appspot.com/o/mycv%2FPicture3.png?alt=media&token=b30107f2-c3b7-46ba-8f1c-3fc371675bcc)
