@@ -1,6 +1,6 @@
 # Algorithm-Simulation
 An application that simulates sort sort and floating point number algorithms. Allows users to adjust input data and adjust the speed of the algorithm.
-##[Demo](https://www.youtube.com/watch?v=8lVqWJ7uoSY)
+## [Demo](https://www.youtube.com/watch?v=8lVqWJ7uoSY)
 ## 1. Requirement
 ### Functional requirement:
 -	Display function clearly(Button, slider bar,...)
