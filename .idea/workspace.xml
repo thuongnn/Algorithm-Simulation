@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$2.class" afterDir="false" />
@@ -13,9 +14,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort$8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/dialog/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/AddSubtractSimulation$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/AddSubtractSimulation$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/AddSubtractSimulation.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$3.class" afterDir="false" />
@@ -24,24 +22,10 @@
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller$7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MergeSortSimulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/extension/MultiplicationSimulation.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Simulation/helpers/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Simulation/helpers/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dialog/MergeSort.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/dialog/MergeSort.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dialog/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dialog/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extension/AddSubtractSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/extension/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extension/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extension/MergeSortSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extension/MultiplicationSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/MultiplicationSimulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/Constant.java" afterDir="false" />
     </list>
-    <ignored path="JavaFxApplication.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,84 +72,12 @@
     <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaFxApplication" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/helpers/Constant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="248" column="70" selection-start-line="248" selection-start-column="70" selection-end-line="248" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dialog/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="163" column="29" lean-forward="true" selection-start-line="163" selection-start-column="29" selection-end-line="163" selection-end-column="29" />
-              <folding>
-                <element signature="e#1672#1673#0" expanded="true" />
-                <element signature="e#1721#1722#0" expanded="true" />
-                <element signature="e#1872#1873#0" expanded="true" />
-                <element signature="e#1922#1923#0" expanded="true" />
-                <element signature="e#2055#2056#0" expanded="true" />
-                <element signature="e#2100#2101#0" expanded="true" />
-                <element signature="e#2255#2256#0" expanded="true" />
-                <element signature="e#2301#2302#0" expanded="true" />
-                <element signature="e#2453#2454#0" expanded="true" />
-                <element signature="e#2495#2496#0" expanded="true" />
-                <element signature="e#2622#2623#0" expanded="true" />
-                <element signature="e#2660#2661#0" expanded="true" />
-                <element signature="e#2791#2792#0" expanded="true" />
-                <element signature="e#2833#2834#0" expanded="true" />
-                <element signature="e#3268#3269#0" expanded="true" />
-                <element signature="e#3310#3311#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/extension/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="240" column="32" selection-start-line="240" selection-start-column="32" selection-end-line="240" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>setBack</find>
-    </findStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -175,79 +87,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/extension/MultiplicationSimulation.java" />
-        <option value="$PROJECT_DIR$/src/extension/Main.java" />
-        <option value="$PROJECT_DIR$/src/extension/Controller.form" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java" />
-        <option value="$PROJECT_DIR$/src/helpers/Constant.java" />
-        <option value="$PROJECT_DIR$/src/dialog/MergeSort.form" />
-        <option value="$PROJECT_DIR$/src/dialog/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java" />
-      </list>
-    </option>
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1e2vcHN4H6M4525K47suCqPKls7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithm-Simulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm-Simulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm-Simulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm-Simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm-Simulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm-Simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dialog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm-Simulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm-Simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="extension" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm-Simulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm-Simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="extension" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="e9f4de52:FormNode" />
-            </path>
-            <path>
-              <item name="Algorithm-Simulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm-Simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="helpers" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
@@ -263,6 +111,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553619834365" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -271,19 +120,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Application.Main (1)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -296,8 +139,16 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extension.Main" />
+      <module name="Algorithm-Simulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extension.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -349,6 +200,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -392,179 +244,49 @@
       <workItem from="1553531475777" duration="1036000" />
       <workItem from="1553599635753" duration="3000" />
       <workItem from="1553613361926" duration="6195000" />
+      <workItem from="1593532584575" duration="3721000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8536000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.26037195" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Duplicate detector" weight="0.32891566" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Profiler" order="8" />
-      <window_info anchor="bottom" id="Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
-      <window_info anchor="bottom" id="Problems" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32891566" />
-      <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Docker" order="16" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="JetGradle" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Maven" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom" timestamp="1593541113229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593541113229" />
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1593532725083" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center" timestamp="1593541113228">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593541113228" />
+    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1593532725082" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left" timestamp="1593541113227">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593541113227" />
+    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1593532725081" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right" timestamp="1593541113228">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593541113228" />
+    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1593532725083" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593535171504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1593535171504" />
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1593533919183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593533919183" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
-    <entry file="file://$PROJECT_DIR$/Algorithm-Simulation.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/extension/MyExtensionFrame.java" />
-    <entry file="file://$PROJECT_DIR$/src/extension/IExtensionFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/extension/IExtension.java" />
-    <entry file="file://$PROJECT_DIR$/src/dialog/FloatingPointNumber.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helpers/Helper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/MultiplicationSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2499">
-          <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/AddSubtractSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dialog/MergeSort.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/Controller.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="769" selection-start-line="769" selection-end-line="769" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extension/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="240" column="32" selection-start-line="240" selection-start-column="32" selection-end-line="240" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helpers/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dialog/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="163" column="29" lean-forward="true" selection-start-line="163" selection-start-column="29" selection-end-line="163" selection-end-column="29" />
-          <folding>
-            <element signature="e#1672#1673#0" expanded="true" />
-            <element signature="e#1721#1722#0" expanded="true" />
-            <element signature="e#1872#1873#0" expanded="true" />
-            <element signature="e#1922#1923#0" expanded="true" />
-            <element signature="e#2055#2056#0" expanded="true" />
-            <element signature="e#2100#2101#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
-            <element signature="e#2301#2302#0" expanded="true" />
-            <element signature="e#2453#2454#0" expanded="true" />
-            <element signature="e#2495#2496#0" expanded="true" />
-            <element signature="e#2622#2623#0" expanded="true" />
-            <element signature="e#2660#2661#0" expanded="true" />
-            <element signature="e#2791#2792#0" expanded="true" />
-            <element signature="e#2833#2834#0" expanded="true" />
-            <element signature="e#3268#3269#0" expanded="true" />
-            <element signature="e#3310#3311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/MergeSortSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="248" column="70" selection-start-line="248" selection-start-column="70" selection-end-line="248" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

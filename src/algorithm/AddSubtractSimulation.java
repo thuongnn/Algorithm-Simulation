@@ -396,12 +396,12 @@ public class AddSubtractSimulation {
             for (int j = 1; j < 9; j++) {
                 jLabels[j].setBackground(Constant.PROCESSING_COLOR);
                 jLabels[j].setText(String.valueOf(exponentBinary[j - 1]));
-                controller.MOVETIME();
+                controller.SHIFTMOVETIME();
                 jLabels[j].setBackground(color);
             }
             num.setText("~ ".concat(String.valueOf(increaseNum)));
             num.setForeground(Constant.PROCESSING_COLOR);
-            controller.MOVETIME();
+            controller.SHIFTMOVETIME();
             String[] oldData = new String[jLabels.length];
             for (int j = 0; j < oldData.length; j++) oldData[j] = jLabels[j].getText();
             for (int j = 12; j < jLabels.length; j++) {
@@ -412,7 +412,7 @@ public class AddSubtractSimulation {
                 } else {
                     jLabels[j].setText(oldData[j - 1]);
                 }
-                controller.MOVETIME();
+                controller.SHIFTMOVETIME();
                 jLabels[j].setBackground(color);
             }
         }
@@ -436,7 +436,7 @@ public class AddSubtractSimulation {
                     labelsResult[j].setBackground(Constant.PROCESSING_COLOR);
                     labelsResult[j].setText(String.valueOf(exponentBinary[j - 1]));
                 }
-                controller.MOVETIME();
+                controller.SHIFTMOVETIME();
                 if (j == 9) {
                     labelsResult[j].setText("0");
                     setHidden(labelsResult[j]);
@@ -451,7 +451,7 @@ public class AddSubtractSimulation {
                 if (j == 10) labelsResult[j].setText(oldData[12]);
                 else if (j == labelsResult.length - 1) labelsResult[j].setText("0");
                 else if (j != 11) labelsResult[j].setText(oldData[j + 1]);
-                controller.MOVETIME();
+                controller.SHIFTMOVETIME();
                 labelsResult[j].setBackground(controller.getPnImitiate().getBackground());
             }
         }

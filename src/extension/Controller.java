@@ -280,15 +280,18 @@ public class Controller {
     }
 
     public void SLEEP() throws InterruptedException {
-        Thread.sleep(this.time);
+        Thread.sleep(this.time / 2);
     }
 
     public void READTEXT() throws InterruptedException {
-        Thread.sleep(this.time * 2);
+        Thread.sleep(this.time);
     }
 
     public void MOVETIME() throws InterruptedException {
-        int levelTime = (1000 - time) / 100;
-        Thread.sleep(100 - levelTime * 10);
+        Thread.sleep(5);
+    }
+
+    public void SHIFTMOVETIME() throws InterruptedException {
+        Thread.sleep(50);
     }
 }
